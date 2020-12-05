@@ -5,8 +5,6 @@ Kusaki is the Japanese word for plants or vegetation (symbolizes how I hope my k
 I have no idea at all. One thing I know for certain, it will not be a PvP focused client.
 
 ## FAQ
-- *Can I help develop the client?*
-**Of course! I need all the help I can get. DM me on Discord at beet#5542 if you would like to help out. (If you're looking for payment, sorry! I can't pay devs, it's a volunteer job!)**
 - *When will it be completed?*
 **Probably sometime next year**
 - *Can I Beta Test the client?*
