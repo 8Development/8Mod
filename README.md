@@ -1,5 +1,6 @@
 # kusakiMOD
 Kusaki is the Japanese word for plants or vegetation (symbolizes how I hope my knowledge of Java "grows" while doing this project.)
+kusakiMOD is a utility mod made for minecraft 
 
 ## Features
 I have no idea at all. One thing I know for certain, it will not be a PvP focused client.
